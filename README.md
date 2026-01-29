@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oscar-Norback
-- 👀 I’m interested in CSGO2 and fotboll big fan of arsenal
-- 🌱 I’m currently learning C
+- 👀 I’m interested in 
+- 🌱 I’m currently learning C#
 - 📫 How to reach me. you dont
 - 😄 Pronouns: he/hem
 - ⚡ Fun fact: im 188 cm
